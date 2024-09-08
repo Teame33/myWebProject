@@ -1,40 +1,41 @@
-.Card{
-width: 700px;
-height: 450px;
-background-color: rgb(173, 246, 147);
-border: solid;
-box-shadow: 20px;
-font-family: Georgia, 'Times New Roman', Times, serif;
-box-shadow: 20px 20px 20px #324ff5;
-border-radius: 10px;
-margin: 0%;
+.Card {
+  width: 700px;
+  height: 450px;
+  background-color: rgb(173, 246, 147);
+  border: solid;
+  box-shadow: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 20px 20px 20px #324ff5;
+  border-radius: 10px;
+  margin: 0%;
 }
 
-#text{
+#text {
   text-align: center;
   font-style: bold;
   color: rgb(255, 148, 148);
 }
 
-.teameWork{
-width: 400px;
-margin-left: 20%;
+.teameWork {
+  width: 400px;
+  margin-left: 20%;
 
 }
 
-#button{
-font-size: 25px;
-margin-left: 42%;
-margin-top: 8px;
-border-radius: 10px;
+#button {
+  font-size: 25px;
+  margin-left: 42%;
+  margin-top: 8px;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
-#button:hover{
-background-color: tomato;
+#button:hover {
+  background-color: tomato;
 
 }
 
-#future{
-margin-left: 10px;
+#future {
+  margin-left: 10px;
 
 }
